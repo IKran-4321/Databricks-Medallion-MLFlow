@@ -1,6 +1,6 @@
-# Databricks Zero-to-Hero: Medallion Architecture + MLFlow
+# Databricks: Medallion Architecture + MLFlow
 
-This is the official repository of the Databricks Zero To Hero Course by Thomas Hass, featuring a complete implementation of the Medallion Architecture pattern integrated with MLflow for machine learning lifecycle management.
+This is the official repository of the Databricks, featuring a complete implementation of the Medallion Architecture pattern integrated with MLflow for machine learning lifecycle management.
 
 ![](ProjectViz.gif)
 
