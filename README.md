@@ -261,7 +261,7 @@ A three-tier data architecture pattern:
 - [Apache Spark Documentation](https://spark.apache.org)
 
 ## 📝 License
-This project is based on the Databricks Zero-to-Hero Course by Thomas Hass.
+This project is based on the Databricks by SaiKiran Ponnada.
 
 ---
 **Last Updated**: 2026-04-28 17:19:13  
